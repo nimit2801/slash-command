@@ -1,0 +1,31 @@
+{
+  "name": "slash-command",
+  "version": "1.0.0",
+  "description": "Example of slash command with discord.js",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodmeon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimit2801/slash-command.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "slash-command"
+  ],
+  "author": "Nimit2801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimit2801/slash-command/issues"
+  },
+  "homepage": "https://github.com/nimit2801/slash-command#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
